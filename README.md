@@ -1,4 +1,4 @@
-# [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python/tree/main-)
+# [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python-)
 In this project we analize a data set from Netflix. Using libraries such as:
 * Pandas
 * Numpy
@@ -19,7 +19,7 @@ General Steps in the project:
 
 
 
-# [Project 2: Nobel-Prize_Awarded_from_1901_to_2019](https://github.com/Fyevenes90/Nobel-Prize_Awarded_from_1901_to_2019/tree/main-)
+# [Project 2: Nobel-Prize_Awarded_from_1901_to_2019](https://github.com/Fyevenes90/Nobel-Prize_Awarded_from_1901_to_2019)
 ![Nobel_prize](https://user-images.githubusercontent.com/28694631/172492250-a002abf9-ddf3-4905-93a4-67a6e0f43a53.JPG)
 
 #### In this project I practice visualizations with the Nobel prize awarded data from 1901 to 2019, I will be using libraries like:
