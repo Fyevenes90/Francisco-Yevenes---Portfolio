@@ -1,4 +1,4 @@
-# [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python-)
+# [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python)
 In this project we analize a data set from Netflix. Using libraries such as:
 * Pandas
 * Numpy
