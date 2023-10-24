@@ -1,3 +1,3 @@
 # Francisco Yevenes Portafolio
 
-# Netflix Python (https://github.com/Fyevenes90/Netflix_python/tree/main)
+# [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python/tree/main)
