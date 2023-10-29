@@ -1,5 +1,7 @@
 # [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python)
-![Netflix analize with Python](https://github.com/Fyevenes90/Netflix_python/blob/main/Netflix_logo.png)
+![Netflix analize with Python](https://github.com/Fyevenes90/Netflix_python/blob/main/Netflix1.jpg)
+
+
 In this project we analize a data set from Netflix. Using libraries such as:
 * Pandas
 * Numpy
