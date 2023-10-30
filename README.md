@@ -1,6 +1,6 @@
 # [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python)
-![Netflix Data exploration](https://github.com/Fyevenes90/Netflix_python/assets/28694631/14bbb017-9eac-4993-83fd-c4cfdb7fbe2e)
 
+<img src="https://github.com/Fyevenes90/Netflix_python/assets/28694631/14bbb017-9eac-4993-83fd-c4cfdb7fbe2e)" width="260" height="350">
 
 In this project we analize a data set from Netflix. Using libraries such as:
 * Pandas
