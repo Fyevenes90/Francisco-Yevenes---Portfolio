@@ -1,6 +1,6 @@
 # [Project 1: Netflix with Python](https://github.com/Fyevenes90/Netflix_python)
 
-<img src="https://github.com/Fyevenes90/Netflix_python/assets/28694631/14bbb017-9eac-4993-83fd-c4cfdb7fbe2e)">
+![Netflix1](https://github.com/Fyevenes90/Francisco-Yevenes---Portfolio/assets/28694631/fe5ada2d-0437-4f82-bf18-1474d0fc1ed7)
 
 In this project we analize a data set from Netflix. Using libraries such as:
 * Pandas
@@ -16,6 +16,7 @@ General Steps in the project:
 * Check for datatypes in dataframes
 * Group and sort data
 * Vizualise the data using Matplotlib and plot
+
 
 
 
