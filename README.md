@@ -20,10 +20,28 @@ General Steps in the project:
 
 
 
+# [Project 3: NBA 🏀 Web Scraping with Python](https://github.com/Fyevenes90/NBA---Web-Scraping-in-Python-using-Pandas)
+![NBA](https://github.com/Fyevenes90/NBA---Web-Scraping-in-Python-using-Pandas/assets/28694631/5741108a-4cc2-4205-8815-330358271ba1)
+
+Hey there, In this project I scrape the Basketball reference NBA website, to analyze the players by using powerful libraries:
+
+* Pandas
+* Seaborn
+
+The exercise of this project is to:
+* Scrape the data from a website
+* Analize the data and see how some behaviors 
+* Change data types and sort values
+* Export data to excel
+* Get a set of the 10 top players based on points
+
+So lets get, to the code!!
 
 
 
-# [Project 2: Nobel Prize Awarded ](https://github.com/Fyevenes90/Nobel-Prize_Awarded_from_1901_to_2019)
+
+
+# [Project 3: Nobel Prize Awarded ](https://github.com/Fyevenes90/Nobel-Prize_Awarded_from_1901_to_2019)
 ![Nobel_prize](https://user-images.githubusercontent.com/28694631/172492250-a002abf9-ddf3-4905-93a4-67a6e0f43a53.JPG)
 
 #### In this project I practice visualizations with the Nobel prize awarded data from 1901 to 2019, I will be using libraries like:
