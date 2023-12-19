@@ -19,22 +19,37 @@
 
 # [Project 2: Netflix with Python](https://github.com/Fyevenes90/Netflix_python)
 
-![Netflix1](https://github.com/Fyevenes90/Francisco-Yevenes---Portfolio/assets/28694631/fe5ada2d-0437-4f82-bf18-1474d0fc1ed7)
-
-In this project we analize a data set from Netflix. Using libraries such as:
+## Netflix analized with Python
+### The analysis aims to answer key questions about Netflix's content and showcase essential data manipulation and visualization techniques. This Python project leverages popular data science libraries, to conduct an insightful Exploratory Data Analysis (EDA) on the Netflix dataset. such as:
 * Pandas
-* Numpy
+* NumPy
 * Matplotlib
-* Plot
-* Os
+* Seaborn
+* Plotly
+ 
+![Netflix analize with Python](https://github.com/Fyevenes90/Netflix_python/assets/28694631/14bbb017-9eac-4993-83fd-c4cfdb7fbe2e)
+<b>
+<b>
+### Techniques Demonstrated:
 
-General Steps in the project:
-* How to import the data from a csv
-* How to deal with missing data
-* Separate dates by month name, year
-* Check for datatypes in dataframes
-* Group and sort data
-* Vizualise the data using Matplotlib and plot
+* Importing data from a CSV file.
+* Handling missing data.
+* Extracting and manipulating date information.
+* Checking data types in DataFrames.
+* Grouping and sorting data.
+* Visualizing data using Matplotlib and Plotly.
+* This project provides a concise yet comprehensive overview of the Netflix dataset, showcasing proficiency in data analysis and visualization techniques. The code and visualizations are available in the project repository for further exploration.
+
+### Key Questions Explored:
+
+* Content Focus: Investigates whether Netflix emphasizes TV shows over movies in recent years.
+* Top Directors: Extracts the top 10 directors based on the number of movies they've made.
+* Global Production: Determines the number of unique countries that have produced movies.
+* Least Productive Year: Identifies the year with the fewest movie productions.
+* TV Show Duration: Identifies the TV show with the maximum duration or seasons.
+* Recent Movie Productions: Counts the number of movies produced in the last 10 years.
+* and many more
+
 
 
 
