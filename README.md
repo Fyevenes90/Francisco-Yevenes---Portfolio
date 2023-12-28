@@ -26,7 +26,6 @@
 
 # [Project 2: Netflix with Python](https://github.com/Fyevenes90/Netflix_python)
 
-## Netflix analized with Python
 ### The analysis aims to answer key questions about Netflix's content and showcase essential data manipulation and visualization techniques. This Python project leverages popular data science libraries, to conduct an insightful Exploratory Data Analysis (EDA) on the Netflix dataset. such as:
 * Pandas
 * NumPy
@@ -64,22 +63,16 @@
 # [Project 3: NBA 🏀 Web Scraping with Python](https://github.com/Fyevenes90/NBA---Web-Scraping-in-Python-using-Pandas)
 ![NBA](https://github.com/Fyevenes90/NBA---Web-Scraping-in-Python-using-Pandas/assets/28694631/5741108a-4cc2-4205-8815-330358271ba1)
 
-Hey there, In this project I scrape the Basketball reference NBA website, to analyze the players by using powerful libraries:
+### In this engaging project, I delve into the intricacies of the basketball world by scraping valuable data from the Basketball Reference NBA website. Leveraging the power of Python and prominent libraries such as Pandas and Seaborn, I embark on an insightful analysis of NBA players.
 
-* Pandas
-* Seaborn
-
-The exercise of this project is to:
-* Scrape the data from a website
-* Analize the data and see how some behaviors 
-* Change data types and sort values
-* Export data to excel
-* Get a set of the 10 top players based on points
-
-So lets get, to the code!!
-
-
-
+### Project Objectives:
+* Data Scraping: Utilize web scraping techniques to extract pertinent data from the Basketball Reference NBA website.
+* Data Analysis: Employ Pandas and Seaborn to delve into the nuances of player statistics and behaviors.
+* Data Transformation: Explore the intricacies of data types, implementing necessary changes, and sorting values for a comprehensive understanding.
+* Data Export: Showcase proficiency by exporting the meticulously curated data into an Excel spreadsheet.
+* Top Players Selection: Implement a systematic approach to identify and present the top 10 players based on their performance metrics, specifically focusing on points.
+Embark on this journey with me as we unravel the stories hidden within the data. Let's dive into the code and witness the fascinating world of NBA analytics!
+🚀🏀
 
 
 # [Project 4: Nobel Prize Awarded ](https://github.com/Fyevenes90/Nobel-Prize_Awarded_from_1901_to_2019)
