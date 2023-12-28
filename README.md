@@ -1,3 +1,10 @@
+### 👋 Hi, I’m Francisco Yevenes
+#### 🌱 Data enthusiast adept at transforming complex datasets into actionable insights for informed decision-making. Proficient in SQL, Excel, and Python, with a creative flair for data visualization tools like Tableau and Power BI. A storyteller at heart, I craft compelling narratives from raw numbers, ensuring stakeholders connect with the insights. Eager to contribute my passion for data-driven solutions to your team's success. Explore my portfolio to see real-world example of how I turn data intostrategic assets. Let's connect!
+📫 How to reach me at fco.yevenes.p@gmail.com or Linkedin --> www.linkedin.com/in/francisco-yevenes-98a64248
+
+
+
+
 # [Project 1: Apple Store Applications with SQL](https://github.com/Fyevenes90/Apple-Store-Applications---SQL-project)
 ![Apple_store_applications](https://github.com/Fyevenes90/Francisco-Yevenes---Portfolio/assets/28694631/47b35018-e919-4ffe-8199-0cb51554b7ad)
 ### Welcome to the Apple Store Application Data Exploration project! In this repository, I've utilized SQL as the primary tool to conduct a comprehensive analysis of the Apple Store dataset obtained from Kaggle. The main objectives of this project include:
